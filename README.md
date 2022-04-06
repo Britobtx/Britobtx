@@ -9,9 +9,15 @@
 - 😄 Gosto de trabalhar em equipe, compartilhar conhecimento e conhecer pessoas<br><br>
 
 ## **Minhas redes Sociais**
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-epifanio/)](https://www.linkedin.com/in/jaime-epifanio/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511963570853&text=Olá!)](https://api.whatsapp.com/send?phone=5511963570853&text=Olá!)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:adrianobrito3@hotmail.com)](mailto:adrianobrito3@hotmail.com)<br><br>
+<div> 
+   <a href="https://instagram.com/adrianobrito_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:britobtx@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adriano-bt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5511963570853"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5511963570853?style=for-the-badge&logo=whatsapp&logoColor=white "><a/>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 ## **Tecnologias que eu uso no meu dia** 
@@ -37,6 +43,7 @@
 <div align="center" >
   <a href="https://github.com/Britobtx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Britobtx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britobtx&layout=compact&langs_count=7&theme=cobalt"/>
+   
 </div>
+ 
