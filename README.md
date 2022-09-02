@@ -2,7 +2,7 @@
 
 
 #### Um pouco mais sobre mim ...
-- 🌱 Desenvolvedor Full Stack:mortar_board:
+- 🌱 Desenvolvedor Front End
 - 🤗 Pronome: ele/dele
 - 😍 Gosto de aprender novas tecnologias.
 - 👩🏽‍💻 Adoro estudar e buscar soluções inovadoras.🚀
